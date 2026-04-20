@@ -16,3 +16,7 @@ Experiment A and B test different similarity scoring approaches.
 - Pairwise feature distributions
 - PCA projections
 - ROC curves
+
+## Datasets Used:
+- https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles
+- https://www.kaggle.com/datasets/keyushnisar/dating-app-behavior-dataset?resource=download
